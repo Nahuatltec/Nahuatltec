@@ -1,0 +1,31 @@
+[
+    
+    {
+        "categoria": "Sujetos",
+        "pregunta": "¿Como se dice Mamá en Nahuatl?",
+        "respuesta": "Nana",
+        "incorrecta1": "Tata",
+        "incorrecta2": "Piltontli",
+        "incorrecta3": "Chilpayatl",
+        "imagen": "img/Nana.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Sujetos",
+        "pregunta": "¿Como se dice Papá en Nahuatl?",
+        "respuesta": "Tata",
+        "incorrecta1": "Piltontli",
+        "incorrecta2": "Chilpayatl",
+        "incorrecta3": "Nana",
+        "imagen": "img/tata.jpeg"
+    },
+    {
+        "categoria": "Sujetos",
+        "pregunta": "¿Como se dice Niño en Nahuatl?",
+        "respuesta": "Piltontli",
+        "incorrecta1": "Nana",
+        "incorrecta2": "Chilpayatl",
+        "incorrecta3": "Tata",
+        "imagen": "img/Piltontli.jpeg"
+    }
+]

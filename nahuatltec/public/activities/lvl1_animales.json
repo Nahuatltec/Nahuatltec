@@ -1,0 +1,31 @@
+[
+    
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Qué animal es este?",
+        "respuesta": "Caxtil",
+        "incorrecta1": "Cllichi",
+        "incorrecta2": "Piotl ",
+        "incorrecta3": "Miztli",
+        "imagen": "img/caxtil.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Qué animal es este?",
+        "respuesta": "Cllichi",
+        "incorrecta1": "Caxtil",
+        "incorrecta2": "Miztli",
+        "incorrecta3": "Piotl ",
+        "imagen": "img/Cllichi.jpeg"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Qué animal es este?",
+        "respuesta": "Miztli",
+        "incorrecta1": "Caxtil",
+        "incorrecta2": "Cllichi",
+        "incorrecta3": "Piotl",
+        "imagen": "img/Miztli.jpeg"
+    }
+]

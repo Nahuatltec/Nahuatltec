@@ -1,0 +1,31 @@
+[
+    
+    {
+        "categoria": "Frutas y verduras",
+        "pregunta": "¿Qué fruta es la de la imagen?",
+        "respuesta": "kokotl",
+        "incorrecta1": "xokok",
+        "incorrecta2": "jikox",
+        "incorrecta3": "auakatli",
+        "imagen": "img/coco.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Frutas y verduras",
+        "pregunta": "¿Qué fruta es muy agría",
+        "respuesta": "xoxokotl",
+        "incorrecta1": "xikamatl",
+        "incorrecta2": "mantsanatl",
+        "incorrecta3": "tsapotl",
+        "imagen": "img/limon.jpg"
+    },
+    {
+        "categoria": "Frutas y verduras",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+]

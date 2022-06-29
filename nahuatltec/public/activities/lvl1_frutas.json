@@ -1,0 +1,31 @@
+[
+    
+    {
+        "categoria": "Frutas",
+        "pregunta": "¿Qué fruta es la de la imagen?",
+        "respuesta": "kokotl",
+        "incorrecta1": "xokok",
+        "incorrecta2": "jikox",
+        "incorrecta3": "auakatli",
+        "imagen": "img/coco.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Frutas",
+        "pregunta": "¿Qué fruta es muy agría?",
+        "respuesta": "xoxokotl",
+        "incorrecta1": "xikamatl",
+        "incorrecta2": "mantsanatl",
+        "incorrecta3": "tsapotl",
+        "imagen": "img/limon.jpg"
+    },
+    {
+        "categoria": "Frutas",
+        "pregunta": "¿Que fruta es esta?",
+        "respuesta": "matzatli",
+        "incorrecta1": "xoxokotl",
+        "incorrecta2": "kokotl",
+        "incorrecta3": "auakatli",
+        "imagen": "img/Mandarina.jpeg"
+    }
+]
